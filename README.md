@@ -7,3 +7,4 @@ https://www.php.net/releases/8.0/ja.php
 ## 新機能
 
 - [名前付き引数](src/new-features/named-arguments.php)
+- [アトリビュート](src/new-features/attributes.php)
