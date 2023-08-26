@@ -5,7 +5,7 @@ services:
     build: ./.docker/php
     tty: true
     volumes:
-      - .:/var/www/html:delegated
+      - .:/var/www/html:cached
       - composer-vendor:/var/www/html/vendor
     working_dir: /var/www/html
 
