@@ -9,3 +9,4 @@ https://www.php.net/releases/8.0/ja.php
 - [名前付き引数](src/new-features/named-arguments.php)
 - [アトリビュート](src/new-features/attributes.php)
 - [コンストラクタのプロパティ昇格機能](src/new-features/constructor-property-promotion.php)
+- [union型](src/new-features/union-type.php)
