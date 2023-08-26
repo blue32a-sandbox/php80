@@ -10,3 +10,4 @@ https://www.php.net/releases/8.0/ja.php
 - [アトリビュート](src/new-features/attributes.php)
 - [コンストラクタのプロパティ昇格機能](src/new-features/constructor-property-promotion.php)
 - [union型](src/new-features/union-type.php)
+- [match式](src/new-features/match.php)
