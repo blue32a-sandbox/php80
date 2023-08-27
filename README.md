@@ -16,3 +16,4 @@ https://www.php.net/releases/8.0/ja.php
 ## 下位互換性のない変更点
 
 - [文字列と数値の比較](src/incompatible/string-number-comparision.php)
+- [アサーション](src/incompatible/assert.php)
