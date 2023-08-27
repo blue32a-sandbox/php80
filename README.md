@@ -17,3 +17,7 @@ https://www.php.net/releases/8.0/ja.php
 
 - [文字列と数値の比較](src/incompatible/string-number-comparision.php)
 - [アサーション](src/incompatible/assert.php)
+
+## 推奨されなくなる機能
+
+- [デフォルト値を持つ引数の後に続く必須の引数](src/deprecated/required-arguments-following-arguments-with-default-values.php)
