@@ -12,3 +12,7 @@ https://www.php.net/releases/8.0/ja.php
 - [union型](src/new-features/union-type.php)
 - [match式](src/new-features/match.php)
 - [nullsafe演算子](src/new-features/nullsafe-operator.php)
+
+## 下位互換性のない変更点
+
+- [文字列と数値の比較](src/incompatible/string-number-comparision.php)
