@@ -11,3 +11,4 @@ https://www.php.net/releases/8.0/ja.php
 - [コンストラクタのプロパティ昇格機能](src/new-features/constructor-property-promotion.php)
 - [union型](src/new-features/union-type.php)
 - [match式](src/new-features/match.php)
+- [nullsafe演算子](src/new-features/nullsafe-operator.php)
